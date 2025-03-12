@@ -18,9 +18,9 @@ Build a responsive user interface for a news aggregator website
 <img width="581" alt="Screenshot 2025-03-12 at 6 27 31 PM" src="https://github.com/user-attachments/assets/294a64b2-7e06-4a80-a842-a4ed6fc040c0" />
 
 ## Setup
-1. Clone the repository.
-2. Run `docker-compose up --build`.
-3. Open `http://localhost:3000` in your browser.
+1. Clone the repository https://github.com/Mirza-Hassan/news-aggregator
+2. Run `docker-compose up --build`
+3. Open `http://localhost:3000` in your browser
 
 ## APIs Used
 - NewsAPI
